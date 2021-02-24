@@ -5,7 +5,7 @@
   <img width="700" height="450" src="https://user-images.githubusercontent.com/75139815/109006730-6aa41700-76bc-11eb-8232-34e3280716e7.png">
 </p>
   
-
+<p><p>
   
 ### **Employee Turnover rate:**
 
@@ -35,3 +35,19 @@ coming period.
 - Employees with low to average salaries tend to leave the company.
 
 
+<p align="center">
+  <img width="550" height="450" src="https://user-images.githubusercontent.com/75139815/109011584-1d2aa880-76c2-11eb-9387-f80c8ef0448d.png">
+</p>
+
+<p><p>
+
+### **Finding:**
+
+I used correlation analysis to determine which factors contribute the most to employee turnover. So, I found that the most correlated was employee satisfaction which had a score of -0.35. A negative correlation means that the likelihood of departure increases as employee satisfaction decreases. And I discovered that the years spent at the company, the number of projects worked, and the employee's average monthly hours had the greatest impact on employee satisfaction.
+
+
+<p align="center">
+  <img width="550" height="450" src="https://user-images.githubusercontent.com/75139815/109011584-1d2aa880-76c2-11eb-9387-f80c8ef0448d.png">
+</p>
+
+<p><p>
