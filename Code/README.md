@@ -1,9 +1,9 @@
-### I used the **Plotly package** to visualize my data.
+### I used the **Plotly Package** to visualize my data.
 
 **To view the plots:**
 
 - Open the notebook in Google colab or jupyter notebook.
-- Install Plotly package by running this code below:
+- Install the **Plotly package** by running this code below:
 
 **Using pip:**
 
