@@ -8,9 +8,6 @@ HR Analytics Dataset, [available on Kaggle](https://www.kaggle.com/lnvardanyan/h
 ### **Dataset Description:**
 The dataset has 14,999 employees observation, and 10 Features(6 integer, 2 float, and 2 objects).
 
-### **Dataset Description:**
-The dataset has 14,999 employees observation, and 10 Features(6 integer, 2 float, and 2 objects).
-
 #### **Each column contains employee attributes:**
 
 - **satisfaction_level:** It is the employee satisfaction rate, which ranges from 0-1.
