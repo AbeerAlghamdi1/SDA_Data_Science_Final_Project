@@ -68,4 +68,14 @@ I used 4 models to predict the Employee Turnover rate listed below:
 
 - The Random Forest Classifier model with GridSearchCV and RandomizedSearchCV hyperparameters got the highest accuracy scores in predicting the Employees Turnover Rate.
 
+<p align="center">
+  <img width="650" height="450" src="https://user-images.githubusercontent.com/75139815/109011612-24ea4d00-76c2-11eb-8c1a-9381440ab638.png">
+</p>
 
+
+
+### **Summary**
+
+Employee turnover analysis is not going to provide a list of employees who the model predicts are likely to quit. This is not the objective of this analysis. Because we can’t have an algorithm for everyone. Employee turnover analysis can help guide decisions, but not make them. We can use these analytics in conjunction with employee feedback, to make the best decisions possible.
+<p></p>
+ Here you can find [my code](url) ,and [dataset ](url) that was used.
