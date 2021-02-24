@@ -3,7 +3,7 @@
 **To view the plots:**
 
 - Open the notebook in Google colab or jupyter notebook.
-- Install the **Plotly package** by running this code below:
+- Install the **Plotly Package** by running this code below:
 
 **Using pip:**
 
