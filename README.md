@@ -19,7 +19,7 @@ coming period.
 2. Create a model that can predict whether an employee will leave the company or not.
 
 
-### **Exploratory Data Analysis(EDA):**
+### **Exploratory Data Analysis (EDA):**
 
 - The dataset has 14,999 employees observation and 10 Features.
 - No variable column has null/missing values.
@@ -54,4 +54,18 @@ I used correlation analysis to determine which factors contribute the most to em
 - Provide overtime rewards (may not financial rewards) to those who work more than the ideal monthly average hours.
 - The division of tasks must be clear and fair among all employees as we can.
 - Make employees feel are appreciated and well-respected in the workplace environment.
+
+### **Models used:**
+
+I used 4 models to predict the Employee Turnover rate listed below:
+
+- Baseline Model had a score of 83%.
+- Logistic Regression had a score of 83%.
+- KNeighbors Classifier had a score of  94%.
+- Random Forest Classifier had a score of 98.03% before tuning, and 98.29% after tuning with GridSearchCV and RandomizedSearchCV.
+
+#### **To Conclude:**
+
+- The Random Forest Classifier model with GridSearchCV and RandomizedSearchCV hyperparameters got the highest accuracy scores in predicting the Employees Turnover Rate.
+
 
