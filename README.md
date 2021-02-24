@@ -5,8 +5,7 @@
   <img width="700" height="450" src="https://user-images.githubusercontent.com/75139815/109006730-6aa41700-76bc-11eb-8232-34e3280716e7.png">
 </p>
   
-<p><p>
-  
+
 ### **Employee Turnover rate:**
 
 Employee Turnover rate is the measurement of the total number of employees who leave an organization in a particular year. 
@@ -20,7 +19,7 @@ coming period.
 2. Create a model that can predict whether an employee will leave the company or not.
 
 
-### **Exploratory Data Analysis:**
+### **Exploratory Data Analysis(EDA):**
 
 - The dataset has 14,999 employees observation and 10 Features.
 - No variable column has null/missing values.
@@ -39,8 +38,20 @@ coming period.
   <img width="550" height="450" src="https://user-images.githubusercontent.com/75139815/109011584-1d2aa880-76c2-11eb-9387-f80c8ef0448d.png">
 </p>
 
-<p><p>
 
 ### **Finding:**
 
 I used correlation analysis to determine which factors contribute the most to employee turnover. So, I found that the most correlated was employee satisfaction which had a score of -0.35. A negative correlation means that the likelihood of departure increases as employee satisfaction decreases. And I discovered that the years spent at the company, the number of projects worked, and the employee's average monthly hours had the greatest impact on employee satisfaction.
+
+
+<p align="center">
+  <img width="600" height="450" src="https://user-images.githubusercontent.com/75139815/109011758-4f3c0a80-76c2-11eb-9f4f-08c4ada69cda.png">
+</p>
+
+### **Potential Solution**
+
+- Allocate incentive budget to boost employee satisfaction and productivity.
+- Provide overtime rewards (may not financial rewards) to those who work more than the ideal monthly average hours.
+- The division of tasks must be clear and fair among all employees as we can.
+- Make employees feel are appreciated and well-respected in the workplace environment.
+
