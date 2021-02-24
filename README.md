@@ -15,7 +15,7 @@ coming period.
 
 ### **Objectives:**
 
-1. Understanding the core reasons for the high turnover rate.
+1. Determine which factors have a high effect on employees turnover rate.
 2. Create a model that can predict whether an employee will leave the company or not.
 
 
