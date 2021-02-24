@@ -79,3 +79,4 @@ I used 4 models to predict the Employee Turnover rate listed below:
 Employee turnover analysis is not going to provide a list of employees who the model predicts are likely to quit. This is not the objective of this analysis. Because we can’t have an algorithm for everyone. Employee turnover analysis can help guide decisions, but not make them. We can use these analytics in conjunction with employee feedback, to make the best decisions possible.
 <p></p>
  Here you can find [my code](url) ,and [dataset ](url) that was used.
+ Here you can find [my code](https://github.com/AbeerAlghamdi1/SDA_Data_Science_Final_Project/tree/main/Code) and dataset that was used.
