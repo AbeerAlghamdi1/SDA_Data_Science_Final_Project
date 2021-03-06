@@ -9,7 +9,7 @@
 
 `! pip install plotly==4.14.3 `
 
-**or conda (Jupyter):**
+**or conda:**
 
 `conda install -c plotly plotly=4.14.3`
 
